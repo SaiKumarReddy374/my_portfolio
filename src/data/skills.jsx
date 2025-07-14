@@ -9,7 +9,7 @@ export const skills = [
   },
   {
     category: "Tools & Technologies",
-    items: ["Git", "Docker", "AWS", "Vercel" , "VS Code"]
+    items: ["Git", "Docker", "AWS", "Vercel" ,"Render", "VS Code"]
   },
   {
     category: "Programming",
