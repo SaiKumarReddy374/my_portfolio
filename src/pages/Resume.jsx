@@ -18,21 +18,21 @@ export const Resume = () => {
     {
       degree: "Bachelor of Technology",
       field: "Computer Science Engineering",
-      institution: "University of Technology",
+      institution: "Indian Institute of Information Technology(IIIT) Sri City",
       period: "2022 - 2026",
       grade: "CGPA: 8.32/10"
     },
     {
       degree: "Class 12 (Intermediate)",
       field: "MPC (Maths, Physics, Chemistry)",
-      institution: "Sri Chaitanya Junior College",
+      institution: "Narayana Junior College",
       period: "2020 - 2022",
       grade: "Percentage: 95.7%"
     },
     {
       degree: "Class 10 (Secondary School)",
       field: "General",
-      institution: "Narayana High School",
+      institution: "ViswaBharati E.M School",
       period: "2019 - 2020",
       grade: "Percentage: 100%"
     }
